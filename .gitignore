@@ -1,0 +1,4 @@
+*.o
+mlp
+cmake-build-*/
+.idea/
